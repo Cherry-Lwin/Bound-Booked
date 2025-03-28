@@ -1,2 +1,2 @@
 # Bound-Booked
- Favourite list of books
+ A place for book lovers to explore and enjoy!
