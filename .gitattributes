@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial project submission"
+git branch -M main
+git remote add origin https://github.com/Cherry-Lwin/Bound-Booked.git
+git push -u origin main# Auto detect text files and perform LF normalization
+* text=auto
